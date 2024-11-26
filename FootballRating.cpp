@@ -1,16 +1,3 @@
-/******************************************************************************
-Name: Brooke Benator
-Date: 2/26/2024
-Assignment: Homework 4
-Due Date: 2/26/2024
-Section: 6
-About this project: This homework practices how to use loops, as well as if statements, counters, and
-focuses on functions
-Assumptions: User inputs positive values/0 into the program, as well as accurate numbers that are probable
-
-All work below was performed by Brooke Benator 
-
-*******************************************************************************/
 #include <iostream>
 #include <iomanip>
 using namespace std;
